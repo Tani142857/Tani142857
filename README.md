@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tani142857
 - 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently learning JavaScript and improving my skills in Python and SQL.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and improving my skills in Python and SQL.
 - 💞️ I’m looking to collaborate on web development projects, especially those that involve data-driven features or analytics.
 - 📫 How to reach me: Feel free to send me a message here on GitHub or reach out via email at tatinicole410@gmail.com.
 - 😄 Pronouns: She/Her
